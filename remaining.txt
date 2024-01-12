@@ -1,3 +1,20 @@
-biscuits
-milk products
-beverages
+biscuits - https://www.bigbasket.com/pc/snacks-branded-foods/biscuits-cookies/?nc=nb
+dairy products - https://www.bigbasket.com/pc/bakery-cakes-dairy/dairy/?nc=nb
+fruit juices -https://www.bigbasket.com/pc/beverages/fruit-juices-drinks/?nc=nb
+ice creams - https://www.bigbasket.com/pc/bakery-cakes-dairy/ice-creams-desserts/?nc=nb
+health drinks -https://www.bigbasket.com/pc/beverages/health-drink-supplement/?nc=nb
+tea- https://www.bigbasket.com/pc/beverages/tea/?nc=nb
+coffee-https://www.bigbasket.com/pc/beverages/coffee/?nc=nb
+bakery snacks- https://www.bigbasket.com/pc/bakery-cakes-dairy/bakery-snacks/?nc=nb
+cakes and pastries -https://www.bigbasket.com/pc/bakery-cakes-dairy/cakes-pastries/?nc=nb
+rusk and cookies -https://www.bigbasket.com/pc/bakery-cakes-dairy/cookies-rusk-khari/?nc=ct-fa
+Dairy free -https://www.bigbasket.com/pc/bakery-cakes-dairy/non-dairy/?nc=ct-fa
+Atta, flours and sooji- https://www.bigbasket.com/pc/foodgrains-oil-masala/atta-flours-sooji/?nc=ct-fa
+masala and spices -https://www.bigbasket.com/pc/foodgrains-oil-masala/masalas-spices/?nc=nb
+salts- https://www.bigbasket.com/pc/foodgrains-oil-masala/salt-sugar-jaggery/salts/?nc=ct-fa
+sugar- https://www.bigbasket.com/pc/foodgrains-oil-masala/salt-sugar-jaggery/sugar-jaggery/?nc=ct-fa
+Sugarfree Sweeteners- https://www.bigbasket.com/pc/foodgrains-oil-masala/salt-sugar-jaggery/sugarfree-sweeteners/?nc=ct-fa
+Edible oils and Ghee -https://www.bigbasket.com/pc/foodgrains-oil-masala/edible-oils-ghee/?nc=nb
+Rice- https://www.bigbasket.com/pc/foodgrains-oil-masala/rice-rice-products/?nc=nb
+Dals & Pulses- https://www.bigbasket.com/pc/foodgrains-oil-masala/dals-pulses/?nc=nb
+Dry fruits -https://www.bigbasket.com/pc/foodgrains-oil-masala/dry-fruits/?nc=nb
